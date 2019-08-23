@@ -1,4 +1,4 @@
-# Recommendations Engines For IBM
+# Recommendations Engines With IBM
 Data Scientist Nanodegree
 
 ## Introduction
